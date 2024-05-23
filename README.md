@@ -1,2 +1,2 @@
 # Insertion-Sort
-Starter code for Insertion Sort assignment in Java
+Starter code for Insertion Sort assignment in Java and Python.
