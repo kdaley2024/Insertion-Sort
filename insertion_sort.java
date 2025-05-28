@@ -54,9 +54,16 @@ public class insertion_sort {
                     System.out.print(", ");
                 }
             }
-    
-            System.out.print(arr[n-1]);
-            System.out.print("]");
+            
+            if (key == n-1) {
+                System.out.print("*");
+                System.out.print(arr[n-1]);
+                System.out.print("*");
+                System.out.print("]");
+            } else {
+                System.out.print(arr[n-1]);
+                System.out.print("]");
+            }
             System.out.println();
         }
  
