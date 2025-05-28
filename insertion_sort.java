@@ -1,5 +1,5 @@
 // Java program for implementation of Insertion Sort
-public class InsertionSort {
+public class insertion_sort {
     /*Function to sort array using insertion sort*/
     void sort(int arr[]) {
         // TO DO
@@ -65,7 +65,7 @@ public class InsertionSort {
     {
         int arr[] = { 12, 11, 13, 5, 6 };
  
-        InsertionSort ob = new InsertionSort();
+        insertion_sort ob = new insertion_sort();
         ob.sort(arr);
 
         
